@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.2.2",
+    "eslint": "^9.16.0"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^3.9.1",
+    "date-fns": "^4.1.0",
+    "immer": "^10.1.1",
+    "react-hook-form": "^7.54.0",
+    "zod": "^3.24.0"
+  }
+}
