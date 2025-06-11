@@ -1,9 +1,9 @@
 import styled from "styled-components";
 
-export type ButtonVariant = "primary" | "secondary" | "danger" | "success";
+export type ButtonVariants = "primary" | "secondary" | "danger" | "success";
 
 interface ButtonCntainerProps {
-  variant: ButtonVariant;
+  variant: ButtonVariants;
 }
 
 const ButtonVariants = {

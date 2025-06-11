@@ -19,7 +19,7 @@ interface CreateCycleDate {
 }
 
 interface CycleContextType {
-  cycle: [];
+  cycle: Cycle[];
   activeCycle: Cycle | undefined;
   activeCycleId: string | null;
   amountSecondsPassed: number;
